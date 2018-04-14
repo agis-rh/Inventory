@@ -5,7 +5,7 @@ require_once('fungsi_validasi.php');
 // definisikan koneksi ke database
 $server = "localhost";
 $username = "root";
-$password = "laksamana";
+$password = "";
 $database = "apps_inventory";
 
 // Koneksi dan memilih database di server
